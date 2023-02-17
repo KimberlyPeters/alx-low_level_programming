@@ -18,3 +18,5 @@
 -------------------------------------
 * 8-print_base16.c is a C program that prints all the numbers of base 16 in lowercase, followed by a new line, using only the ```putchar``` function exactly three times
 ----------------------------------------
+* 9-print_comb.c is a C program that prints all possible combinations of single-digit numbers, using only the ```putchar``` function exactly four times without any variables of type ```char```
+------------------------------------
