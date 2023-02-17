@@ -4,4 +4,5 @@
 ------------------------------------
 * 1-last_digit.c is a C program that prints the last digit of a randomly generated number, followed by a new line
 -----------------------------------------------------
-
+* 2-print_alphabet.c is a C program that prints the alphabet in lowercase, followed by a new line, using only the putchar function exactly twice
+-----------------------
