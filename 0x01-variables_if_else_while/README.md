@@ -20,3 +20,6 @@
 ----------------------------------------
 * 9-print_comb.c is a C program that prints all possible combinations of single-digit numbers, using only the ```putchar``` function exactly four times without any variables of type ```char```
 ------------------------------------
+* 100-print_comb3.c is a C program that prints all possible different combinations of two digits using only the ```putchar``` function exactly five times without any variables of type ```char```
+	* 01 and 10 are considered the same combination of the two digits 0 and 1
+---------------------------------------
