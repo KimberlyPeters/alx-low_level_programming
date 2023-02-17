@@ -12,7 +12,7 @@ int main(void)
 	{
 		if (alpha != 'e' && alpha != 'q')
 		{
-			putchar(aplha);
+			putchar(alpha);
 		}
 		else
 		{
