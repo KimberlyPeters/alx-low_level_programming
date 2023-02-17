@@ -8,4 +8,5 @@
 -----------------------
 * 3-print_alphabets.c is a C program that prints the alphabet in lowercase, then in uppercase, followed by a new line, using only the ```putchar``` function exactly three times
 -----------------------------------------------------------------------------------------------
-
+* 4-print_alphabt.c is a C program that prints the alphabet in lowercase except for the letters ```q``` and ```e```, followed by a new line, using only the ```putchar``` function exactly twice
+---------------------------------------
