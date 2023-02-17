@@ -1,3 +1,5 @@
+### In this project, I learned about compilation using gcc, entry points using main, and text-printing functions in C.
+----------------------------------------------------------
 * 0-preprocessor is a script that runs a C file through the preprocessor and save the result into another file ```c ```
 --------------------------------------
 * 1-compiler is a script that compiles a C file but does not link but with a ```.o ``` extension
