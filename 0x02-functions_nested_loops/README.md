@@ -5,3 +5,4 @@ In this project, I learned about nested loops, header files, and variable scope 
 -----------------------------------------------------
 * 1-alphabet.c is a C function that prints the alphabet in lowercase, followed by a new line.
 ----------------------------------------------
+* 
