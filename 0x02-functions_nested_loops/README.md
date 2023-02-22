@@ -16,7 +16,7 @@ In this project, I learned about nested loops, header files, and variable scope 
 | ```2-print_alphabet_x10.c``` 	| ```void print_alphabet_x10(void);```  |
 | ```3-islower.c```  		| ```int _islower(int c);```  		|
 | ```4-isalpha.c```  		| ```int _isalpha(int c);```		|
-| ```5-sign.c````		| ```int print_sign(int n);```		|
+| ```5-sign.c```		| ```int print_sign(int n);```		|
 | ```6-abs.c```			| ```int _abs(int);```			|
 | ```7-print_last_digit.c```    | ```int print_last_digit(int);```      |
 | ```8-24_hours.c```            | ```void jack_bauer(void);```	  	|
