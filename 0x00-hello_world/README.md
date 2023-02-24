@@ -8,7 +8,7 @@
 -------------------------------------------------
 * [3-name](https://github.com/KimberlyPeters/alx-low_level_programming/blob/master/0x00-hello_world/3-name): Bash script that compiles a C file saved in the variable ```$CFILE``` and creates an executable named ```cisfun```
 -----------------------------------------------------------
-* [4-puts.c[(https://github.com/KimberlyPeters/alx-low_level_programming/blob/master/0x00-hello_world/4-puts.c): C program that prints exactly ```"Programming is like building a multilingual puzzle```, followed by a new line, using the function ```puts```.
+* [4-puts.c](https://github.com/KimberlyPeters/alx-low_level_programming/blob/master/0x00-hello_world/4-puts.c): C program that prints exactly ```"Programming is like building a multilingual puzzle```, followed by a new line, using the function ```puts```.
 ---------------------------------------------------------------
 * [5-printf.c](https://github.com/KimberlyPeters/alx-low_level_programming/blob/master/0x00-hello_world/5-printf.c): C program that prints exactly ```with proper grammar, but the outcome is a piece of art```, followed by a new line, using the function ```printf```
 ----------------------------------------------------------------
