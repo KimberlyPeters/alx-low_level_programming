@@ -4,4 +4,4 @@ In this project, I learned about what and how to use pointers and arrays and the
 
 ### Header File 📁
 
-* [main.h]: Header file containing prototypes for all functions written in the project
+* [main.h](https://github.com/KimberlyPeters/alx-low_level_programming/blob/master/0x05-pointers_arrays_strings/main.h): Header file containing prototypes for all functions written in the project
