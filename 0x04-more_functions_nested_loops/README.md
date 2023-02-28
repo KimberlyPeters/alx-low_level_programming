@@ -4,7 +4,7 @@ In this project, I continued to learn about using nested loops and writing funct
 
 ### Header File 
 
-* [main.h: ](https://github.com/KimberlyPeters/alx-low_level_programming/blob/master/0x04-more_functions_nested_loops/main.h):Header file containing prototypes for all functions written in the project.
+* [main.h](https://github.com/KimberlyPeters/alx-low_level_programming/blob/master/0x04-more_functions_nested_loops/main.h): Header file containing prototypes for all functions written in the project.
 
 
 | 		File  		|		 Prototype 		|
