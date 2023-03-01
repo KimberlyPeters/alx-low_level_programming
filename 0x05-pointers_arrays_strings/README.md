@@ -4,7 +4,7 @@ In this project, I learned about what and how to use pointers and arrays and the
 
 ### Helper File 🙌
 
-* _putchar.c: C function that writes a character to stdout.
+* [_putchar.c](https://github.com/KimberlyPeters/alx-low_level_programming/blob/master/0x05-pointers_arrays_strings/_putchar.c): C function that writes a character to ```stdout```.
 
 ### Header File 📁
 
