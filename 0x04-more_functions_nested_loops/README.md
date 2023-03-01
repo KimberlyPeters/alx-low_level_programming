@@ -25,7 +25,7 @@ In this project, I continued to learn about using nested loops and writing funct
 | ```10-print_triangle.c```  	| ```void print_triangle(int size);```  |
 | ```101-print_number.c```  	| ```void print_number(int n);```  	|
 
-### Tasks
+### Tasks 📃
 
 * [0-isupper.c](https://github.com/KimberlyPeters/alx-low_level_programming/blob/master/0x04-more_functions_nested_loops/0-isupper.c): C function that checks for uppercase characters. Returns ```1``` if the character is uppercase, ```0``` otherwise.
 -------------------------------
