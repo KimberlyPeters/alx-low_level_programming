@@ -16,8 +16,8 @@ In this project, I learned about what and how to use pointers and arrays and the
 | ```1-swap.c```  	 | ```void swap_int(int *a, int *b);```  	   |
 | ```2-strlen.c```  	 | ```int _strlen(char *s);```  		   |
 | ```3-puts.c```  	 | ```void _puts(char *str);```  		   |
-| ```4-print_rev.c```  	 | ```	void print_rev(char *s);```  	   	   |
-| ```5-rev_string.c```   | ```void rev_string(char *s);````  	   	   |
+| ```4-print_rev.c```  	 | ```void print_rev(char *s);```  	   	   |
+| ```5-rev_string.c```   | ```void rev_string(char *s);```  	   	   |
 | ```6-puts2.c```  	 | ```void puts2(char *str);```  		   |
 | ```7-puts_half.c```  	 | ```void puts_half(char *str);```  	   	   |
 | ```8-print_array.c```  | ```void print_array(int *a, int n);```  	   |
