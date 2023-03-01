@@ -25,7 +25,7 @@ In this project, I learned about nested loops, header files, and variable scope 
 | ```11-print_to_98.c```        | ```void print_to_98(int n);```        |
 | ```100-times_table.c```       | ```void print_times_table(int n);```  |
 
-### TASKS
+### TASKS 📃
 ---------------------------------------------------
 * [0-putchar.c](https://github.com/KimberlyPeters/alx-low_level_programming/blob/master/0x02-functions_nested_loops/0-putchar.c): C program that prints ```_putchar```, followed by a new line. Returns 0. 
 -----------------------------------------------------
