@@ -1,5 +1,7 @@
 ### In this project, I learned about compilation using ```gcc```, entry points using ```main```, and text-printing functions in ```C```.
-----------------------------------------------------------
+
+### Tasks 📃
+
 * [0-preprocessor](https://github.com/KimberlyPeters/alx-low_level_programming/blob/master/0x00-hello_world/0-preprocessor): Bash script that runs a C file saved in the variable ```$CFILE``` through the preprocessor and save the result into another file ```c```
 --------------------------------------
 * [1-compiler](https://github.com/KimberlyPeters/alx-low_level_programming/blob/master/0x00-hello_world/1-compiler):Bash script that compiles a C file saved in the variable ```$CFILE``` but does not link; saves the result in an output file of the same name but with a ```.o``` extension
