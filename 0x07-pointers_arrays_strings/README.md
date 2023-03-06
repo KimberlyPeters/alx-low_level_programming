@@ -4,11 +4,11 @@ In this project, I learned about what and how to use pointers to pointers and mu
 
 ### Helper File 🙌
 
-* [_putchar.c](https://github.com/KimberlyPeters/alx-low_level_programming/blob/master/0x06-pointers_arrays_strings/_putchar.c): C function that writes a character to ```stdout```.
+* [_putchar.c](https://github.com/KimberlyPeters/alx-low_level_programming/blob/master/0x07-pointers_arrays_strings/_putchar.c): C function that writes a character to ```stdout```.
 
 ### Header File 📁
 
-* [main.h](https://github.com/KimberlyPeters/alx-low_level_programming/blob/master/0x06-pointers_arrays_strings/main.h): Header file containing prototypes for all functions written in the project.
+* [main.h](https://github.com/KimberlyPeters/alx-low_level_programming/blob/master/0x07-pointers_arrays_strings/main.h): Header file containing prototypes for all functions written in the project.
 
 
 |               File        	|                            Prototype                                |
