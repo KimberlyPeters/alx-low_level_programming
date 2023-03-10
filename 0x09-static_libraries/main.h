@@ -1,5 +1,5 @@
-#ifndef FILE_MAIN
-#define FILE_MAIN
+#ifndef MAIN_H
+#define MAIN_H
 
 /**
  * Desc: Header file containing the prototypes of all functions
