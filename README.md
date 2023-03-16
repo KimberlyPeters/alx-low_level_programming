@@ -13,3 +13,8 @@ This repository contains programs written for the low-level programming and algo
 * [0x05. C - Pointers, arrays and strings](https://github.com/KimberlyPeters/alx-low_level_programming/tree/master/0x05-pointers_arrays_strings)
 * [0x06. C - More pointers, arrays and strings](https://github.com/KimberlyPeters/alx-low_level_programming/tree/master/0x06-pointers_arrays_strings)
 * [0x07. C - Even more pointers, arrays and strings](https://github.com/KimberlyPeters/alx-low_level_programming/tree/master/0x07-pointers_arrays_strings)
+* [0x08. C - Recursion](https://github.com/KimberlyPeters/alx-low_level_programming/tree/master/0x08-recursion)
+* [0x09. C - Static libraries](https://github.com/KimberlyPeters/alx-low_level_programming/tree/master/0x09-static_libraries)
+* [0x0A. C - argc, argv](https://github.com/KimberlyPeters/alx-low_level_programming/tree/master/0x0A-argc_argv)
+* [0x0B. C - malloc, free](https://github.com/KimberlyPeters/alx-low_level_programming/tree/master/0x0B-malloc_free)
+* [0x0C. C - More malloc, free](https://github.com/KimberlyPeters/alx-low_level_programming/tree/master/0x0C-more_malloc_free)
