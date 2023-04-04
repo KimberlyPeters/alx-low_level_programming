@@ -21,3 +21,7 @@ This repository contains programs written for the low-level programming and algo
 * [0x0D. C - Preprocessor](https://github.com/KimberlyPeters/alx-low_level_programming/tree/master/0x0D-preprocessor)
 * [0x0E. C - Structures, typedef](https://github.com/KimberlyPeters/alx-low_level_programming/tree/master/0x0E-structures_typedef)
 * [0x0F. C - Function pointers](https://github.com/KimberlyPeters/alx-low_level_programming/tree/master/0x0F-function_pointers)
+* [0x10. C - Variadic functions](https://github.com/KimberlyPeters/alx-low_level_programming/tree/master/0x10-variadic_functions)
+* [0x11. C - printf](https://github.com/KimberlyPeters/printf)
+* [0x12. C - Singly linked lists](https://github.com/KimberlyPeters/alx-low_level_programming/tree/master/0x12-singly_linked_lists)
+* [0x13. C - More singly linked lists](https://github.com/KimberlyPeters/alx-low_level_programming/tree/master/0x13-more_singly_linked_lists)
