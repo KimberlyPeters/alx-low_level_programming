@@ -4,7 +4,7 @@ In this project, I learned how to manipulate bits and use the bitwise operators 
 
 ### Helper File 🙌
 
-* [_putchar.c](): C function that writes a character to stdout.
+* [_putchar.c](): C function that writes a character to ```stdout```.
 
 ### Header File :file_folder:
 
