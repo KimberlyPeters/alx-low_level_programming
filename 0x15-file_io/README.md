@@ -7,7 +7,7 @@ Helper File 🙌
 
 ### Header File :file_folder:
 
-* [main.h(): Header file containing prototypes for all functions written in the project.
+* [main.h](): Header file containing prototypes for all functions written in the project.
 
 | File                      | Prototype                                                            |
 | ------------------------- | -------------------------------------------------------------------- |
