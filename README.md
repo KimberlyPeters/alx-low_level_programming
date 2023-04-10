@@ -25,3 +25,5 @@ This repository contains programs written for the low-level programming and algo
 * [0x11. C - printf](https://github.com/KimberlyPeters/printf)
 * [0x12. C - Singly linked lists](https://github.com/KimberlyPeters/alx-low_level_programming/tree/master/0x12-singly_linked_lists)
 * [0x13. C - More singly linked lists](https://github.com/KimberlyPeters/alx-low_level_programming/tree/master/0x13-more_singly_linked_lists)
+* [0x14. C - Bit manipulation](https://github.com/KimberlyPeters/alx-low_level_programming/tree/master/0x14-bit_manipulation)
+* [0x15. C - File I/O](https://github.com/KimberlyPeters/alx-low_level_programming/tree/master/0x15-file_io)
