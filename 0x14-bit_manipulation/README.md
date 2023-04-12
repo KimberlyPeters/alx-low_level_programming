@@ -54,3 +54,6 @@ In this project, I learned how to manipulate bits and use the bitwise operators 
 * [100-get_endianness.c](https://github.com/KimberlyPeters/alx-low_level_programming/blob/master/0x14-bit_manipulation/100-get_endianness.c): C function that checks the endianness.
   * If big-endian - returns `0`.
   * If little-endian - returns `1`.
+---------------------------------------------------------------
+* [101-password](https://github.com/KimberlyPeters/alx-low_level_programming/blob/master/0x14-bit_manipulation/101-password): File containing the password for the
+  [crackme3](https://github.com/holbertonschool/0x13.c) executable.
