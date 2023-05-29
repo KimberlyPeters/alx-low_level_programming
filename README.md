@@ -27,3 +27,7 @@ This repository contains programs written for the low-level programming and algo
 * [0x13. C - More singly linked lists](https://github.com/KimberlyPeters/alx-low_level_programming/tree/master/0x13-more_singly_linked_lists)
 * [0x14. C - Bit manipulation](https://github.com/KimberlyPeters/alx-low_level_programming/tree/master/0x14-bit_manipulation)
 * [0x15. C - File I/O](https://github.com/KimberlyPeters/alx-low_level_programming/tree/master/0x15-file_io)
+* [0x16. C - Simple Shell](https://github.com/KimberlyPeters/simple_shell)
+* [0x17. C - Doubly linked lists](./0x17-doubly_linked_lists)
+* [0x18. C - Dynamic libraries](./0x18-dynamic_libraries)
+* [0x19. C - Stacks, Queues - LIFO, FIFO](https://github.com/KimberlyPeters/monty)
