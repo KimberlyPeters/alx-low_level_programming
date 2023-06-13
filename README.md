@@ -31,3 +31,20 @@ This repository contains programs written for the low-level programming and algo
 * [0x17. C - Doubly linked lists](./0x17-doubly_linked_lists)
 * [0x18. C - Dynamic libraries](./0x18-dynamic_libraries)
 * [0x19. C - Stacks, Queues - LIFO, FIFO](https://github.com/KimberlyPeters/monty)
+* [0x1A. C - Hash tables](./0x1A-hash_tables)
+
+
+## Author :
+* [Kimberly Peters](https://github.com/KimberlyPeters)
+
+## Acknowledgements :pray:
+
+All work contained in this project was completed as part of the curriculum for the ALX-SE programme. ALX Africa is an online full-stack software engineering program that prepares students for careers in the tech industry using project-based peer learning. For more information, visit [this link](https://www.alxafrica.com//).
+
+
+<p align="center">
+  <img src="http://www.alxafrica.com/wp-content/uploads/2022/01/header-logo.png"
+    alt="ALX Africa Logo"
+  >
+  </p>
+~          
