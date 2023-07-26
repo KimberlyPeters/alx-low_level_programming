@@ -31,19 +31,27 @@ def island_perimeter(grid):
         island_perimeter(grid) => 16
     """
 
+    if len(grid) == 0:
+        return (0)
+
     perimeter = 0
-    rows = len(grid)
-    cols = len(grid[0])
-
-    for i in range(rows):
-        for j in range(cols):
-            if grid[i][j] == 1:
-                perimeter += 4
-
-                if i > 0 and grid[i - 1][j] == 1:
-                    perimeter -= 2
-
-                if j > 0 and grid[i][j - 1] == 1:
-                    perimeter -= 2
-
-    return perimeter
+    row_index = 0
+    for row in grid:
+        col_index = 0
+        for col in row:
+            if col == 1:
+                if col_index > 0:
+                    if row[col_index - 1] == 0:
+                        perimeter += 1
+                if col_index < len(row) - 1:
+                    if row[col_index + 1] == 0:
+                        perimeter += 1
+                if row_index > 0:
+                    if grid[row_index - 1][col_index] == 0:
+                        perimeter += 1
+                if row_index < len(grid) - 1:
+                    if grid[row_index + 1][col_index] == 0:
+                        perimeter += 1
+            col_index += 1
+        row_index += 1
+    return (perimeter)
